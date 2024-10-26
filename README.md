@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="250" src="https://github.com/mohonsarker40/mohonsarker40/blob/main/cover.png"  />
+ <a href="https://ibb.co.com/HBrCqm0"><img src="https://i.ibb.co.com/179MTH3/Black-Yellow-Business-Facebook-Cover.png" alt="Black-Yellow-Business-Facebook-Cover" border="0"></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohon-sarker4/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.facebook.com/mhn.sarker/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
 </div>
@@ -16,7 +16,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohonsarker.mohonsarker"  />
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdfarhan01.mdfarhan01"/>
 </div>
 
 ###
@@ -29,7 +30,7 @@
 
 ###
 
-<p align="left">I'm an intern at TMSS ICT.<br><br>- 🔭 I’m working as an intern learning full-stack development.<br>- 📚 I'm currently learning more advanced Laravel and Vue.js.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
+<p align="left">I'm an intern at MAK Tech Solution.<br><br>- 🔭 I’m working as an intern learning wordpress development.<br>- 📚 I'm currently learning more advanced theme and plugin development.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
 
 ###
 
@@ -38,13 +39,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -64,5 +64,4 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohonsarker40&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdfarhan01&date_format=M%20j%5B%2C%20Y%5D&type=png" alt="GitHub Streak" /></a></div>
